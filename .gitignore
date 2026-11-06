@@ -1,2 +1,3 @@
 pgdata/
 catboost_info/
+.env
